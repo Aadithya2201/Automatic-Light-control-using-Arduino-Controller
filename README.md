@@ -91,10 +91,13 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-![alt text](<Screenshot 2024-05-06 171625.png>)
-## OUTPUT:
-![alt text](<Screenshot 2024-03-18 112656.png>)
+![Screenshot 2024-05-15 230203](https://github.com/Aadithya2201/Automatic-Light-control-using-Arduino-Controller/assets/145917810/93a41e15-b978-4abe-9009-d6b2d5d2cde4)
 
-![alt text](<Screenshot 2024-03-18 112234.png>)
+## OUTPUT:
+![Screenshot 2024-05-15 230215](https://github.com/Aadithya2201/Automatic-Light-control-using-Arduino-Controller/assets/145917810/d99e2d07-e661-47d2-b306-4b2c3fe41a79)
+
+
+![Screenshot 2024-05-15 230231](https://github.com/Aadithya2201/Automatic-Light-control-using-Arduino-Controller/assets/145917810/555e5c60-396e-4ef1-884c-db3379bc443b)
+
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
